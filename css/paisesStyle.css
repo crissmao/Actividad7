@@ -1,0 +1,66 @@
+body{
+    background-color: rgba(44, 35, 35, 0.432);
+ }
+ 
+ h1{
+     text-align: center;
+     background-color: rgb(39, 10, 66);
+     color: rgb(255, 255, 255);
+     font-size: 50px;
+     padding-top: 10px;
+ }
+ 
+ .paises{
+      background-color: rgba(112, 91, 233, 0.575);
+      font-size: 25px;
+      color:rgb(20, 19, 19);
+      width: 90%;
+      margin:0 auto;
+      text-align: justify;
+ }
+ 
+ .imagen4{
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-style: solid;
+     
+ }
+ 
+ h2{
+     text-align: center;
+     font-size: 40px;
+     color: rgb(46, 20, 87);
+ }
+ 
+ .top{
+     background-color: rgb(39, 223, 213);
+     font-size: 30px;
+     color: rgb(114, 37, 7);
+     width: 80%;
+     margin: 0 auto;
+     text-align: justify ;
+ }
+ 
+ .menu {
+
+     font-size: 30px;
+ 
+ }
+         
+ .menu li:hover{
+     color: rgba(214, 13, 13, 0.829); 
+     text-decoration: transparent;
+     display: block;
+    }
+.imagen6{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-style: solid;  
+}
+    
+  
+ 
